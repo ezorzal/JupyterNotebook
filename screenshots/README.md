@@ -2,7 +2,7 @@
 
 This folder contains screenshots related to the **"Create and Share Your Jupyter Notebook"** assignment.  
 
-# Contents  
+## Contents  
 
 The screenshots are named according to the exercises completed in the notebook:  
 
@@ -18,6 +18,6 @@ The screenshots are named according to the exercises completed in the notebook:
 - **10-objectives.png** – List of notebook objectives.  
 - **11-authordetails.png** – Notebook author's name.  
 
-# Note  
+## Note  
 
 These images will be used for validation and peer review as part of the course assignment.  
