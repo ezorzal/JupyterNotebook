@@ -1,4 +1,4 @@
-# Create and Share Your Jupyter Notebook  
+# Final Assignment: Create and Share Your Jupyter Notebook  
 
 This repository contains my final assignment for the course, where I created and shared a Jupyter Notebook.  
 
